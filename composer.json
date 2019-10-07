@@ -1,18 +1,21 @@
 {
-    "name": "jason-guru/laravel-make-repository",
-    "description": "A simple package to create a make:repository command for Laravel 5+",
+    "name": "krystofhonsu/laravel-make-repository",
+    "description": "A simple package to create a make:repository command for Laravel 6+",
     "type": "library",
     "require": {
-        "illuminate/console": "~5.0",
-        "illuminate/database": "~5.0",
-        "illuminate/support": "~5.0",
-        "php": ">=5.4.0"
+        "illuminate/console": "~6.0",
+        "illuminate/database": "~6.0",
+        "illuminate/support": "~6.0",
+        "php": ">=7.2.0"
     },
     "license": "MIT",
     "authors": [
         {
             "name": "G Jason Sharma",
             "email": "g.jason.sharma@gmail.com"
+        }, {
+            "name": "Krystof Honsu",
+            "email": "krystof.honsu@gmail.com"
         }
     ],
     "minimum-stability": "dev",
